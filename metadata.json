@@ -1,0 +1,5 @@
+{
+  "name": "EthioCal - Ethiopian Calendar Converter",
+  "description": "A beautiful and intuitive Gregorian to Ethiopian calendar converter with Amharic support.",
+  "requestFramePermissions": []
+}
